@@ -1,3 +1,5 @@
+### MassTransit and RabbitMQ
+
 - This is simple project which shows communication between 2 microservices using RabbitMQ and MassTransit.
 
 - OrderService publishes a message when order is placed.
